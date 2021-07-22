@@ -1,6 +1,6 @@
 {
   "name": "@titanium-sdk/facebook",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "description": "Use the native Facebook SDK in Axway Titanium",
   "scripts": {
     "commit": "git-cz",

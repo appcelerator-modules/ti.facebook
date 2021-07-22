@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 11.0.0
+version: 11.0.1
 apiversion: 2
 description: Use the native Facebook iOS SDK in Axway Titanium.
 author: Mark Mokryn, Ng Chee Kiat and Hans Knoechel
@@ -16,4 +16,4 @@ guid: e4f7ac61-1ee7-44c5-bc27-fa6876e2dce9
 platform: iphone
 minsdk: 9.2.0
 mac: false
-architectures: arm64 x86_64
+architectures: armv7 arm64 i386 x86_64
